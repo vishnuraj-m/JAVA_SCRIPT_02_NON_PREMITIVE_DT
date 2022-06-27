@@ -95,3 +95,5 @@ var string1 = "abcdef"
 console.log(parseInt(string1));
 
 console.log(string1[2]);
+
+// !
